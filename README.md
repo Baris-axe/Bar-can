@@ -1,1 +1,2 @@
-# Bar-can
+metin = ("merhaba")
+print(metin)
